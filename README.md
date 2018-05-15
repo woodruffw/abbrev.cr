@@ -1,5 +1,7 @@
 # abbrev.cr
 
+[![Build Status](https://travis-ci.org/woodruffw/abbrev.cr.svg?branch=master)](https://travis-ci.org/woodruffw/abbrev.cr)
+
 A straightforward port of Ruby's
 [Abbrev](https://ruby-doc.org/stdlib/libdoc/abbrev/rdoc/Abbrev.html) to Crystal.
 
