@@ -1,4 +1,5 @@
-# abbrev.cr
+abbrev.cr
+=========
 
 [![Build Status](https://img.shields.io/github/workflow/status/woodruffw/abbrev.cr/CI/master)](https://github.com/woodruffw/abbrev.cr/actions?query=workflow%3ACI)
 
